@@ -1,0 +1,27 @@
+h1{
+    Color:black;
+    font-size: 60px;
+    }    
+    img {
+        border-color: whitesmoke;
+        border-width: 3px;
+        border-style: solid;
+    }    
+    h2 { 
+        color:brown;
+        font-size: 30px;
+    }
+    article{
+        border: 5px solid ghostwhite;
+        margin:blue 5px;
+        border-radius:5px;
+        background-color:rosybrown;
+        padding:10px;
+    }
+    header{
+        background-color: gold;
+        border-radius: 10px;
+    }
+    li{
+        list-style-type:none;
+    }
